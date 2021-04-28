@@ -1,3 +1,4 @@
-Class Test {
-  
+class Test {
+	// new comment
+	
 }
